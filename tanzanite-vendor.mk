@@ -1186,6 +1186,7 @@ PRODUCT_PACKAGES += \
     libwa_dof \
     libwa_rtdof \
     libwapi \
+    libwifi-hal-mtk \
     libwpfa \
     libwvhidl \
     libwvkeybox \
